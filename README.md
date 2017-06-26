@@ -5,6 +5,8 @@ A project derived from the ConicWare project, more information about it or my ot
 To view the output of this program, find the folder called /sample. 
 
 ###For a preview refer below 
+the result from the history forum in Tieba:
+![](Sample/a.png)
 the result from the steam forum in Tieba:
 ![](Sample/st.png)
 *though the program has changed much and data would be focused on a micro perspective, the effect of output images is alike*
