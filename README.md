@@ -2,7 +2,7 @@
 mining and analyze data from Tieba, largest online community in China (Chinese reddit)
 
 A project derived from the ConicWare project, more information about it or my other projects can be found on http://caudep.com/
-To view the output of this program, find the folder called /sample. 
+To view the output of this program, find the folder called https://github.com/sxysun/conicWare-Community_Data_Analyzer/master/Sample 
 
 ### For a preview refer below 
 the result from the history forum in Tieba:
