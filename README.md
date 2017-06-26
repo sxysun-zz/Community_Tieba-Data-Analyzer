@@ -3,8 +3,13 @@ mining and analyze data from Tieba, largest online community in China (Chinese r
 
 A project derived from the ConicWare project, more information about it or my other projects can be found on http://caudep.com/
 To view the output of this program, find the folder called /sample. 
-![](Sample/a.png)
-This project is mostly written in java, with a few bash and python. The project is tested to be running well on *NIX machines.(Windows users can refer to point 3 in NOTES & WARNING)
+
+###For a preview refer below 
+the result from the steam forum in Tieba:
+![](Sample/st.png)
+*though the program has changed much and data would be focused on a micro perspective, the effect of output images is alike*
+
+This project is mostly written in java, with a few bash and python. The project is tested to be running well on *NIX* machines.(Windows users can refer to point 3 in NOTES & WARNING)
 
 The GUI is really shabby and I know it.
 
