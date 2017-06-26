@@ -7,8 +7,7 @@ To view the output of this program, find the folder called /sample.
 ### For a preview refer below 
 the result from the history forum in Tieba:
 ![](Sample/a.png)
-the result from the steam forum in Tieba:
-![](Sample/st.png)
+
 *though the program has changed much and data would be focused on a micro perspective, the effect of output images is alike*
 
 This project is mostly written in java, with a few bash and python. The project is tested to be running well on *NIX* machines.(Windows users can refer to point 3 in NOTES & WARNING)
