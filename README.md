@@ -6,7 +6,7 @@ To view the output of this program, find the folder called /sample. This project
 
 The GUI is really shabby and I know it.
 
-IMPORTANT NOTES & WARNING:
+### IMPORTANT NOTES & WARNING:
 
 1. The jar file provided is NOT the isolated community data analyzer but the ConicWare project including much more functionality, but of course you can open it and find the analyzer panel. 
 
