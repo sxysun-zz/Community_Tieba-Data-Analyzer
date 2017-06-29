@@ -10,7 +10,8 @@ the result from the history forum in Tieba:
 
 *though the program has changed much and data would be focused on a micro perspective, the effect of output images is alike*
 
-This project is mostly written in java, with a few bash and python. The project is tested to be running well on **NIX* machines.(Windows users can refer to point 3 in NOTES & WARNING)
+This project is mostly written in java, with a few bash and python. The project is tested to be running well on **NIX* machines.
+##### (Windows users can refer to point 3 in NOTES & WARNING)
 
 The GUI is really shabby and I know it. For other reference to sample output(text ones rather than images) check /dataAnalyzer
 
