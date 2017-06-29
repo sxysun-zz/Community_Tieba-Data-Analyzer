@@ -1,4 +1,4 @@
-# conicWare-Community_Data_Analyzer
+# ConicWare-Community_Data_Analyzer
 #### Mining and analyze data from Tieba, largest online community in China (Chinese reddit), this is a project including *data mining, natural language processing* and *data visualization*.
 
 A project derived from the ConicWare project, more information about it or my other projects can be found on http://caudep.com/
