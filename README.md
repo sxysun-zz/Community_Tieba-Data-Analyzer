@@ -1,24 +1,24 @@
 # ConicWare-Community_Data_Analyzer
-### INTRODUCTION
+### 1.INTRODUCTION
 
 #### Mining and analyze data from Tieba, largest online community in China (Chinese reddit), this is a project including *data capturing, natural language processing* and *data visualization*.
 
 A project derived from the ConicWare project, more information about it or my other projects can be found on http://caudep.com/
 To view the output of this program, find the folder called /Sample
 
-### PREVIEW
+### 2.PREVIEW
 the result from the history forum in Tieba:
 ![](Sample/a.png)
 
 *though the program has changed much and data would be focused on a micro perspective, the effect of output images is alike*
 
-### Other Notes
+### 3.OTHER NOTES
 This project is mostly written in java, with a few bash and python. The project is tested to be running well on **NIX* machines.
-#### (Windows users can refer to point 3 in NOTES & WARNING)
+#### (Windows users can refer to point 3 in IMPORTANT NOTES & WARNING)
 
 The GUI is really shabby and I know it. For other reference to sample output(text ones rather than images) check /dataAnalyzer. (in it are pre-analyzed data and output text file for the *Lovelive!* community 
 
-### IMPORTANT NOTES & WARNING:
+### 4.IMPORTANT NOTES & WARNING:
 
 1. The jar file provided is NOT the isolated community data analyzer but the ConicWare project including much more functionality, but of course you can open it and find the analyzer panel. 
 
