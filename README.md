@@ -3,10 +3,10 @@
 
 #### Mining and analyze data from Tieba, largest online community in China (Chinese reddit), this is a project including *data capturing, natural language processing* and *data visualization*.
 
-A project derived from the ConicWare project, more information about it or my other projects can be found on http://caudep.com/
-To view the output of this program, find the folder called /Sample
+A project derived from the ConicWare project, more information about it or my other projects can be found on http://caudep.com/. 
 
 ### 2. PREVIEW
+To view the output of this program, find the folder called /Sample
 the result from the history forum in Tieba:
 ![](Sample/a.png)
 
