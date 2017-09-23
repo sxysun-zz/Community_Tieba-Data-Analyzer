@@ -1,4 +1,7 @@
 # ConicWare-Community_Data_Analyzer
+
+### this project has been decreapteed and will not be updated in future for realated work refer to [here](https://github.com/sxysun/TieCloud-Search)
+
 ### 1. INTRODUCTION
 
 #### Mining and analyze data from Tieba, largest online community in China (Chinese reddit), this is a project including *data capturing, natural language processing* and *data visualization*.
