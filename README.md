@@ -1,6 +1,6 @@
 # ConicWare-Community_Data_Analyzer
 
-### *this project will not be updated in future for related work refer to `TieCloud-Search`[link here](https://github.com/sxysun/TieCloud-Search)*
+### *this project is made when I was a Second Year High School student and it will not be updated in future for related work refer to `TieCloud-Search`[link here](https://github.com/sxysun/TieCloud-Search)*
 
 ### 1. INTRODUCTION
 
